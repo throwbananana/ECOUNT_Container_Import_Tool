@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Executables
+*.exe
+*.msi
+*.dll
+
+# Excel & Data files (explicitly excluded as requested)
+*.xlsx
+*.xls
+*.csv
+
+# Environment & IDE
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.swp
+*.bak
